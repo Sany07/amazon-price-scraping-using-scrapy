@@ -5,7 +5,7 @@
 ## Installation 
 
 ```
-open terminal and type
+Open terminal and type
 
 git@github.com:Sany07/amazon-price-scraping-using-scrapy.git
 
